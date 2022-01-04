@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/govzeroaotearoa/futures/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the course of 2022 we plan to explore and gather over 100
+futurescapes. Contributions will be curated from diverse community
+perspectives across Aotearoa, New Zealand.
 
-### Markdown
+They will be shared openly as a resource to better understand the
+opportunities and challenges of a pivot toward digital delivery of
+Aotearoa's systems of civic and cultural governance to ensure a thriving
+environment, society and economy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While digitising the delivery of services currently provided by the
+public sector can streamline many things for many people, it can also
+exacerbate cultural, generational, economic and digital divides. It is
+our hope that through exploring both optimistic and pessimistic futures
+we can understand both the challenges and opportunities present
+immediately and deep into the future.
 
-```markdown
-Syntax highlighted code block
+Imagine what might be possible if Aotearoa were to have a vibrant,
+user-focused and trustworthy digital infrastructure for governance,
+appropriately and effectively developed and maintained by citizens.
 
-# Header 1
-## Header 2
-### Header 3
+An infrastructure to which citizens are happy to contribute and
+understand how they benefit from their investment of data, information,
+knowledge and expertise to create friction-free governance services that
+enrich the lives of all our people. Then, for a moment, imagine things
+"going to custard", the proverbial pendulum swinging the other way, what
+are the ways in which a government could demand and capture citizen data
+and use it for nefarious purposes and make life in Aotearoa unbearable
+for all or some. Our optimistic and pessimistic futures workshops aim to
+create space for these conversations and to draw diverse perspectives
+out of all kinds of people who live, work and contribute in New Zealand.
+Participating in this initiative, as a supporting organisation, as a
+participant, or as a facilitator are all incredibly valuable ways for us
+to co-create the future for digital Aotearoa we want to see.
 
-- Bulleted
-- List
+Supporting this work through financial contributions, participation, or
+joining our facilitator community are great ways to help contribute to
+building a brighter future for New Zealand.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Gathering and Sharing Futures as Open Data
 
-[Link](url) and ![Image](src)
-```
+We will work through 2022 to facilitate workshops (online and in-person)
+which gather and collect unique perspectives on what the hopes, dreams
+and fears are about a more connected digital government of the future.
+What opportunities can we collectively head toward, what sand-pits and
+dangers can we avoid. We hope that through this exercise we can invite
+us all to become brave optimists, as well as cautious pessimists in
+hopes that in-between these extremes we can map the future we want to
+head towards together.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Workshops will strive to develop friction-free ways that we can capture
+contributions from community members. Through participant's written,
+spoken, transcribed and multimedia contributions, we'll catalog and
+organise these futures into a resource that can become a reference data
+set for alignment of the digital society and government of Aotearoa we'd
+like to see.
 
-### Jekyll Themes
+Select futures will become the anchor for a multimedia VR experience to
+be delivered at the end of 2022. This Virtual Reality future will allow
+anyone to have an opportunity to wear VR goggles and "walk into" a
+future we've co-created together. We cannot create what we cannot
+imagine.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/govzeroaotearoa/futures/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Workshop Facilitator Training
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Our workshop facilitator training will invite participants to join a
+community of practice, composed of facilitators from across NZ that will
+work to apply common methods and practices to capture and gather these
+optimistic and pessimistic views of the future at 15, 30, and 50 year
+time horizons.
+
+Over the span of 4-hours (in 2x 2-hour sessions online via Zoom)
+prospective facilitators will join group discussions and break-out rooms
+to discuss and share techniques and tips for:
+
+-   Codes of Conduct - Creating safe spaces for contribution
+
+-   Ice breakers and group formation
+
+-   Keeping a room focused and "on-task"
+
+-   Making space for unique perspectives and minority voices
+
+-   Channeling Optimism
+
+-   Focusing Contributions - i.e. A day in the life, 50 years from now?
+
+-   Inviting Pessimism
+
+-   Future Scenarios as a lasting resource - How to capture futures
+    > created and contribute them to GitHub
+
+### Core workshops 
+
+Our primary mechanism for funding these workshops is to partner with
+organizations that can benefit from this library of possible and
+avoidable futures. If your organization is thinking about how it
+undergoes a digital transformation, or how the pivot to digital will
+work in 15, 30, 50 years, we want your involvement and participation.
+
+
+*This work is part of a larger work program "Accelerating Digital
+Aotearoa 2022" considering the people, tools and systems which will
+enable a productive digital future for the public service in New
+Zealand. Through this work we hope to demonstrate a public commons for
+legislation represented as code using high-value use-case and a Service
+Aotearoa demonstrator which demonstrates what\'s possible when service
+offerings of government are shared and delivered with low friction in
+digital ways.*
