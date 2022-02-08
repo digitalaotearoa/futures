@@ -1,4 +1,9 @@
-### Workshop Facilitator Preparation
+### Workshop Facilitators
+
+To create a consistent base-level of workshop faciltiators, we've developed
+a workshop facilitator train-the-trainer workshop that can help our workshop
+hosts to learn the specific techniques we'll be using to run our Futures 
+workshops
 
 Our workshop facilitator training will invite participants to join a
 community of practice, composed of facilitators from across NZ that will
