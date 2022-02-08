@@ -16,19 +16,11 @@ prospective facilitators will join group discussions and break-out rooms
 to discuss and share techniques and tips for:
 
 -   Codes of Conduct - Creating safe spaces for contribution
-
 -   Ice breakers and group formation
-
 -   Keeping a room focused and "on-task"
-
 -   Making space for unique perspectives and minority voices
-
 -   Channeling Optimism
-
 -   Focusing Contributions - i.e. A day in the life, 50 years from now?
-
 -   Inviting Pessimism
-
--   Future Scenarios as a lasting resource - How to capture futures
-    > created and contribute them to GitHub
+-   Future Scenarios as a lasting resource - How to capture futures created and contribute them to GitHub
 
