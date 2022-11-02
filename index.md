@@ -1,7 +1,7 @@
 
 # Overview
 
-Over the course of 2022 we are exploring and gathering over 100
+Over the course of 2023 we are exploring and gathering over 100
 futurescapes. Contributions will be curated from diverse community
 perspectives across Aotearoa, New Zealand.
 
@@ -23,7 +23,7 @@ appropriately and effectively developed and maintained by citizens.
 
 An infrastructure to which citizens are happy to contribute and
 understand how they benefit from their investment of data, information,
-knowledge and expertise to create friction-free governance services that
+knowledge and expertise to create services that
 enrich the lives of all our people. Then, for a moment, imagine things
 "going to custard", the proverbial pendulum swinging the other way, what
 are the ways in which a government could demand and capture citizen data
@@ -37,7 +37,7 @@ to co-create the future for digital Aotearoa we want to see.
 
 ### Gathering and Sharing Futures as Open Data
 
-We will work through 2022 to facilitate workshops (online and in-person as possible)
+We will work through 2023 to facilitate workshops (online and in-person as possible)
 which gather and collect unique perspectives on what the hopes, dreams
 and fears are about a more connected digital government of the future.
 What opportunities can we collectively head toward, what sand-pits and
@@ -55,7 +55,7 @@ like to see. This can act as inspiration, an inventory of possibilities and
 a reference for our work and its possible impacts.
 
 Select futures will become the anchor for a multimedia VR experience to
-be delivered at the end of 2022. This Virtual Reality future will allow
+be delivered at the end of 2023. This Virtual Reality future will allow
 anyone to have an opportunity to wear VR goggles and "walk into" a
 future we've co-created together. 
 
@@ -67,7 +67,8 @@ avoidable futures. If your organization is thinking about how it
 undergoes a digital transformation, or how the pivot to digital will
 work in 15, 30, 50 years, we want your involvement and participation.
 
-*This work is part of a larger work program "G0V (Gov Zero) Aotearoa" considering the people, tools and systems which will
+* This work is part of a larger work program "Digital Aotearoa Collective" 
+considering the people, tools and systems which will
 enable a productive digital future for the public service in New
 Zealand. Through this work we hope to demonstrate a public commons for
 legislation represented as code using high-value use-case and a Service
