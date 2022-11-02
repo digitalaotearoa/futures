@@ -15,7 +15,7 @@ Over the span of 4-hours (in 2x 2-hour sessions online via Zoom)
 prospective facilitators will join group discussions and break-out rooms
 to discuss and share techniques and tips for:
 
--   Codes of Conduct - Creating safe spaces for contribution
+-   Creating safe spaces for contribution
 -   Ice breakers and group formation
 -   Keeping a room focused and "on-task"
 -   Making space for unique perspectives and minority voices
